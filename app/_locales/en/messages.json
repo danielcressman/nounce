@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "nounce",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Chrome extension to pronounce words from Forvo",
+    "description": "The description of the application"
+  }
+}
